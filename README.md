@@ -5,5 +5,7 @@
 ## Встановлення
 
 ```bash
-git clone <[repo_url](https://github.com/str-djkr/test_task.git)>
+git clone https://github.com/str-djkr/test_task.git
+```
+```bash
 cd <repo_folder>
